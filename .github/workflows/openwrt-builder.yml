@@ -28,9 +28,9 @@ on:
         type: choice
         description: Select Source.
         required: true
-        default: openwrt
+        default: HandsomeMod
         options:
-        - openwrt
+        - HandsomeMod
         - immortalwrt
 
 env:
